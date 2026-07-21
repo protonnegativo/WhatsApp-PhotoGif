@@ -1,0 +1,20 @@
+# dependências
+node_modules/
+
+# SESSÕES DO WHATSAPP - NUNCA COMMITAR (dão controle total da conta)
+auth_info/
+auth_info_2/
+auth_info*/
+
+# QR codes (contêm token de pareamento vivo)
+qr.png
+qr2.png
+*.qr.png
+
+# runtime
+frames/
+*.log
+*.pid
+
+# gif pessoal do usuário (coloque o seu em assets/avatar.gif localmente)
+assets/*.gif
